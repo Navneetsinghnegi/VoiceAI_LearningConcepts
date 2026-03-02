@@ -25,6 +25,7 @@ This repository documents my step-by-step learning journey in building a Voice A
 - Fixed vs Sliding window segmentation
 - Energy-based VAD
 - Context handling in streaming ASR
+- ML Bases VAD using Silero
 
 ## Next Steps
 
